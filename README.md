@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell basics Repo
+Repo for basic Shell Scripts
